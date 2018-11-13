@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 client.on('ready', () => {
-client.user.setGame(' البلاينق يلي تبيه ','https://www.twitch.tv/sytra_ayman');
+client.user.setGame('Protecting Servers','https://www.twitch.tv/sytra_ayman');
   console.log(`Logged in as ${client.user.tag}!`);
   });
   /*جميع الحقوق محفوظهه لريبل ولسيرفر كودز
